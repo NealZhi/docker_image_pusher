@@ -1,3 +1,2 @@
-alpine
-docker pull 186184848/documentserver:8.0.1
+186184848/documentserver:8.0.1
 
