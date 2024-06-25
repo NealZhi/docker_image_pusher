@@ -1,1 +1,1 @@
-snowdreamtech/frps:0.58.1
+qingpan/rnacos:v0.5.13
