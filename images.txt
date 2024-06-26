@@ -1,1 +1,1 @@
-mysql:8.0.37
+gitea/gitea:1.22.0
