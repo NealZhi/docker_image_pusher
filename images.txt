@@ -1,1 +1,3 @@
-ghcr.io/huolalatech/page-spy-web:v1.8.10
+docker.io/library/caddy:2-alpine
+docker.io/valkey/valkey:7-alpine
+docker.io/searxng/searxng:latest
