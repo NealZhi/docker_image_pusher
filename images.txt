@@ -1,1 +1,1 @@
-drone/drone:2
+drone/drone-runner-ssh
