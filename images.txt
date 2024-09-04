@@ -1,1 +1,1 @@
-drone/drone-runner-ssh
+python:3.11-slim
