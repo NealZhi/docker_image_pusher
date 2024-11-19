@@ -1,1 +1,1 @@
-186184848/documentserver
+6053537/portainer-ce:2.19.5
