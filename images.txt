@@ -1,1 +1,2 @@
-gogost/gost:3.0
+apacherocketmq/rocketmq-dashboard:1.0.0
+apache/rocketmq:5.3.1
