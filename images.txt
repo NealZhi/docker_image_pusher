@@ -1,2 +1,1 @@
-langfuse/langfuse-worker:3.81
-langfuse/langfuse:3.81
+lmsysorg/sglang:v0.4.9.post6-cu126
