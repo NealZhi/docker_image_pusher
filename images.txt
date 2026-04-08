@@ -1,1 +1,1 @@
-ghcr.io/tbphp/gpt-load:latest
+eclipse-temurin:17-jre-alpine
