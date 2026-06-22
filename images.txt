@@ -1,1 +1,1 @@
-astral/uv:python3.12-bookworm-slim
+oven/bun:1.3.14-debian
